@@ -15,5 +15,5 @@ cat $apps_dir/sdr_transceiver_hpsdr/sdr_transceiver_hpsdr.bit > /dev/xdevcfg
 2: audio codec board clock 12.000MHz
 JA5AEA
 
-$apps_dir/sdr_transceiver_hpsdr/sdr-transceiver-hpsdr 1 2 2 1 2 1 2 &
+$apps_dir/sdr_transceiver_hpsdr/sdr-transceiver-hpsdr-ananxd 1 2 2 2 1 2 1 2 &
 
