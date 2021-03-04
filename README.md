@@ -14,7 +14,7 @@ $apps_dir/sdr_transceiver_hpsdr/sdr-transceiver-hpsdr-ananxd 1 2 2 2 1 2 1 2 &
 
                                       TABLE
 
-Arguments:   1       2       3       4   |    5       6    |      7       |     8
+Arguments:   1        2      3       4   |    5       6    |    7         |      8
 Selection:  RX1     DIV     RX2     PS   |   TX      ENV   |   CAT        |  CODEC
 1 or2:              1:IN1                |      1:OUT1     | 1:4,800bps   |  1:12.888MHz
                     2:IN2                |      2:OUT2     | 2:38,400bps  |  2:12.000MHz
