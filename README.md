@@ -13,8 +13,8 @@ Please change the following arguments to meet your radio configuration in the la
 $apps_dir/sdr_transceiver_hpsdr/sdr-transceiver-hpsdr-ananxd 1 2 2 2 1 2 1 2 &
 
 The first four arguments: 
-the receivers (RX1, RX2, RX3, RX4), where 1 corresponds to IN1 and 2 corresponds to IN2. In Thetis (ANAN*D modes), RX1 is shown as RX1, 
-RX2 is used for diversity, RX3 is shown as RX2, RX4 is used for Pure Signal. Diversity selection is always the opposite of RX1 selection.
+the receivers (RX1, RX2, RX3, RX4), where 1 corresponds to IN1 and 2 corresponds to IN2. In Thetis (ANAN*D modes), RX1 is shown as Receiver1 1, 
+RX2 is used for diversity, RX3 is shown as Receiver 2, RX4 is used for Pure Signal Feedback. RX2 number is always the opposite number of RX1 number.
 
 The fith and sixth arguments: 
 the outputs (OUT1, OUT2), where 1 corresponds to the TX signal and 2 corresponds to the envelope signal. 
